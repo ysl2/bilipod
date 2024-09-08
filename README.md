@@ -1,3 +1,16 @@
+# Code review
+
+> Ref:
+> - https://www.bilibili.com/video/BV1Gx4y1t7C2
+> - https://setuptools.pypa.io/en/latest/userguide/index.html
+
+```bash
+cd Documents
+git clone git@github.com:ysl2/bilipod.git
+cd bilipod/src
+PYTHONPATH="$PWD" python3 bilipod/__main__.py
+```
+
 # bilipod: Turn Bilibili Users into Podcast Feeds
 
 English / [简体中文](./README_CN.md)
